@@ -1,0 +1,8 @@
+    "email": "justine@test.com",
+    "password": "foo123"
+
+    "email": "pierre@test.com",
+    "password": "root1234"
+
+    "email": "alex@test.com",
+    "password": "test1234"
